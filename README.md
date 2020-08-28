@@ -3,13 +3,13 @@
 
 ## Technologies
 Project is created with-
-*C++ 11
-*Qt Framework version: 4.12.4
-*SQLITE
+* C++ 11
+* Qt Framework version: 4.12.4
+* SQLITE
 
 ## Launch
 Follow these steps-
-1. Install SQLITE and QtCreator.
+1. Install [SQLITE](https://sqlitebrowser.org/) and [QtCreator](https://www.qt.io/download).
 2. Download this Github Repository.
 3. Run in QtCreator.
 
